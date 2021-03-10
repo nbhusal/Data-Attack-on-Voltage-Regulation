@@ -1,6 +1,6 @@
 All the system data for the 240-node real distribution system are taken from [1]. 
 
-F. Bu, Y. Yuan, Z. Wang, K. Dehghanpour, and A. Kimber, “A time-series distribution test system based on real utility data,” in 2019 North AmericanPower Symposium (NAPS), Wichita, KS, USA, USA, 2019, pp. 1–6
+[1] F. Bu, Y. Yuan, Z. Wang, K. Dehghanpour, and A. Kimber, “A time-series distribution test system based on real utility data,” in 2019 North AmericanPower Symposium (NAPS), Wichita, KS, USA, USA, 2019, pp. 1–6
 
 
 The MATLAB and OpedDSS integration of the system are are available in 
